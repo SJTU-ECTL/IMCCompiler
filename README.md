@@ -19,6 +19,6 @@ Note that you may need to use C++17 Language Standard and also update C++ Prepro
 Please make sure you can run Mockturle, Gurobi, and Z3 before using our compiler.
 
 ## Run
-To appy the compiler on an XMG netlist, please use the .v / .bliff / .aig file of the benchmark and put the name of the file in benchmarks.txt (you can optianlly add the bound for the netlist).
+To apply the compiler on an XMG netlist, please use the .v / .bliff / .aig file of the benchmark and put the name of the file in benchmarks.txt (you can optionally add the bound for the netlist).
 
 An example of router benchmark can be found in the files.
